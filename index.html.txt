@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel Blog</title>
+        <style>
+            h1{
+                background-color:red;
+                color:rgb(255, 0, 255);
+            }
+            .liberty {
+                color:green;
+            }
+            .Nigara--Falls{
+                color:blue;
+                
+            }
+            body {
+                background-color:rgb(0,255,255);
+            }
+            #Lib {
+                color:green;
+            }
+            #Falls {
+                color:rgb(128,0,128);
+            }
+            #Arch {
+                color:rgb(232, 139, 9);
+            }
+            .Gateway-Arch {
+                color:brown;
+                font-family :Sans-Sherif;
+                
+            }
+            .start {
+                color:purple;
+            }
+            .end {
+                color:rgb(235, 29, 183);
+            }
+            
+            
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to the USA!</h1>
+        <p class="start"> Hello and welcome to this webpage, travel to the USA! The three landmarks you will see are: </p>
+        <ul class="start">
+            <li> The statue of liberty</li>
+            <li> Nigara Falls </li>
+            <li> And, the Gateway Arch.</li>
+            
+            
+            
+        </ul>
+        <p class="start"> In order, I would vist them as: </p>
+        <ol class="start">
+            <li> Nigara Falls </li>
+            <li> The statue of liberty </li>
+            <li> The Gateway arch. </li>
+            
+        </ol>
+        <p class="start"> Now, let's start! </p>
+        <h2 id="Lib"> The statue of liberty</h2>
+        <p class="liberty"> The USA has a few wonderfull landmarks. One of the landmarks is the Statue of liberty, as shown below      </p>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d3/Statue_of_Liberty%2C_NY.jpg"height="200" alt="The statue of liberty is green, atop a high base and is one of our nation's landmarks"> 
+      <p class = "liberty"  > The Statue of liberty was a gift to our nation to celebrate our nation's 100th birthday. It has since been a very famous national landmark.</p>
+      <h2 id="Falls">Nigara Falls</h2>
+    <p class="Nigara--Falls">Nigara falls is a water fall at New York. It is one of the tallest water falls in the USA. As shown here, it is beautifull, right? </p>
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Niagara_Falls%2C_New_York_from_Skylon_Tower.jpg"alt="This falls is very tall and famous. It can bee seen from new york." height="100">
+    <p class="Nigara--Falls"> Nigara falls is in new york and can be seen from Skylon Tower, as shown in the picture. </p>
+    <h2 id="Arch">The Gateway Arch</h2>
+    <p class="Gateway-Arch"> The Gateway Arch is a national landmark to celebrate one of Missouri's govner's buyals. It is shown here.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/St_Louis_night_expblend_cropped.jpg"height="100">
+    <p class="end"> Now, After reading this, please come  to the USA and have a wonderfull time! Have a good day! </p>
+    
+    </body>
+</html>
